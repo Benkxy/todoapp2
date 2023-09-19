@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NCV/5FStkYcGbd/7N+CAxEQRRSsNNBSXLHtDn0SsoJmBISb+jWWoQUQgVwIB1mv3vOdrxblagTwVn8I5XAchzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xian.yang.kang\\Documents\\Azure Labs\\azure\\projects\\distributed\\src\\entities\\ToDoList.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xian.yang.kang\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

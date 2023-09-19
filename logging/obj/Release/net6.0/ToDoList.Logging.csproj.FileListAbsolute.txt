@@ -1,0 +1,12 @@
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\bin\Release\net6.0\ToDoList.Logging.deps.json
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\bin\Release\net6.0\ToDoList.Logging.dll
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\bin\Release\net6.0\ToDoList.Logging.pdb
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.csproj.AssemblyReference.cache
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.AssemblyInfoInputs.cache
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.AssemblyInfo.cs
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.csproj.CoreCompileInputs.cache
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.dll
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\refint\ToDoList.Logging.dll
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\ToDoList.Logging.pdb
+C:\Users\xian.yang.kang\Documents\Azure Labs\azure\projects\distributed\src\logging\obj\Release\net6.0\ref\ToDoList.Logging.dll
